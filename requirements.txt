@@ -1,0 +1,10 @@
+altair
+arviz
+jupyterlab
+matplotlib
+numpy
+pandas
+plotly
+pymc3
+requests
+seaborn
